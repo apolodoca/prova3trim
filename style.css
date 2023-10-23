@@ -1,0 +1,36 @@
+body{
+    background-color: orangered;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.alinhar_botao{
+    text-align: center;
+}
+.botao{
+    align-items: center;
+    border: none;
+    background-color: white;
+    size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#nao_mostra{
+    visibility: hidden;
+    text-align: center ;
+    
+}
+.alinhar_img{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
